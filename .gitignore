@@ -1,6 +1,5 @@
-# starter-hugo-academic
-/misc/*
-!/misc/.gitkeep
+# themes
+/themes/congo/
 
 # * Syncthing
 # syncthing ignore files
