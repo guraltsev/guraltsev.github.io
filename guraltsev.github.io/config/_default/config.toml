@@ -8,6 +8,7 @@
 ## ****
 theme = "congo"
 baseURL = "https://guraltsev.github.io/"
+languageCode = "en"
 ## ****
 
 defaultContentLanguage = "en"
