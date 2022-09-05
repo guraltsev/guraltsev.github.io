@@ -1,5 +1,6 @@
 # starter-hugo-academic
-/starter-hugo-academic/
+/misc/*
+!/misc/.gitkeep
 
 # * Syncthing
 # syncthing ignore files
