@@ -1,5 +1,6 @@
 # themes
-/themes/congo/
+/themes/*
+!/themes/.gitkeep
 
 # * Syncthing
 # syncthing ignore files

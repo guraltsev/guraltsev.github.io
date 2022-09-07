@@ -1,0 +1,174 @@
+baseURL = "https://examplesite.com/"
+title = "Gennady Uraltsev's Website"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+#googleAnalytics = "UA-123-45"
+
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+
+[params]
+env = "production"
+title = "Gennady Uraltsev"
+description = "Gennady Uraltsev's website"
+keywords = [ "math", "mathematics", "analysis", "harmonic analysis", "PDE", "Calderón Zygmund, wave packet, time frequency"]
+author = "Gennady Uraltsev"
+# images = [ "<link or path of image for opengraph, twitter-cards>" ]
+
+DateFormat = "2006-12-31"
+
+defaultTheme = "light"
+disableThemeToggle = true
+
+ShowBreadCrumbs = true
+
+ShowRssButtonInSectionTermList = true
+ShowFullTextinRSS = true
+
+showtoc = true
+tocopen = true
+UseHugoToc = false
+
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+
+
+ShowCodeCopyButtons = false
+ShowWordCount = true
+
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+
+hidemeta = false
+hideSummary = false
+
+  [params.assets]
+  favicon = "favicon.ico"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-icon.png"
+  safari_pinned_tab = "favicon-32x32.png"
+
+  [params.label]
+  text = "Gennady Uraltsev"
+  icon = "/img/guraltsev-2glasses.jpg"
+#  icon = "/favicon/apple-icon.png"
+  iconHeight = 48
+
+  [params.profileMode]
+  enabled = false
+  title = "Gennady Uraltsev"
+  subtitle = "Whyburn Research Associate - UVA"
+  imageUrl = "/img/guraltsev-1x1.jpg"
+  imageWidth = 400
+  imageHeight = 400
+  imageTitle = "my image"
+
+    # [[params.profileMode.buttons]]
+    # name = "Posts"
+    # url = "posts"
+
+    # [[params.profileMode.buttons]]
+    # name = "Tags"
+    # url = "tags"
+
+  # [params.homeInfoParams]
+  # Title = "Gennady"
+  # Content = "Welcome to my blog"
+
+  # [[params.socialIcons]]
+  # name = "twitter"
+  # url = "https://twitter.com/"
+
+  # [[params.socialIcons]]
+  # name = "stackoverflow"
+  # url = "https://stackoverflow.com"
+
+  # [[params.socialIcons]]
+  # name = "github"
+  # url = "https://github.com/"
+
+# [params.analytics.google]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.bing]
+# SiteVerificationTag = "XYZabc"
+
+# [params.analytics.yandex]
+# SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/<path_to_repo>/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "Research"
+name = "Research"
+url = "research"
+weight = 10
+
+[[menu.main]]
+identifier = "Publications"
+name = "Publications"
+url = "publications"
+weight = 20
+
+[[menu.main]]
+identifier = "Talks and Travel"
+name = "Talks and travel"
+url = "talks-travel"
+weight = 30
+
+[[menu.main]]
+identifier = "Teaching"
+name = "Teaching"
+url = "teaching"
+weight = 40
+
+
+# [[menu.main]]
+# identifier = "categories"
+# name = "categories"
+# url = "/categories/"
+# weight = 10
+
+# [[menu.main]]
+# identifier = "tags"
+# name = "tags"
+# url = "/tags/"
+# weight = 20
+
+# [[menu.main]]
+# identifier = "example"
+# name = "example.org"
+# url = "https://example.org"
+# weight = 30
+
+[markup.highlight]
+noClasses = false
