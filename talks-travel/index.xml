@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Talks and Travel on Gennady Uraltsev&#39;s Website</title>
-    <link>https://examplesite.com/talks-travel/</link>
+    <link>https://guraltsev.github.com/talks-travel/</link>
     <description>Recent content in Talks and Travel on Gennady Uraltsev&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/talks-travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://guraltsev.github.com/talks-travel/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
