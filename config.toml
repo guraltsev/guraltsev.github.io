@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://guraltsev.github.com/"
 title = "Gennady Uraltsev's Website"
 paginate = 5
 theme = "PaperMod"
