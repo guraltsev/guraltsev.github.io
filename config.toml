@@ -1,5 +1,5 @@
 baseURL = "https://guraltsev.github.io/"
-title = "Gennady Uraltsev's Website"
+title = "Gennady Uraltsev"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
