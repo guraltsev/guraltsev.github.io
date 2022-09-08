@@ -97,7 +97,7 @@ hideSummary = false
 
    [[params.socialIcons]]
    name = "email"
-   url = "gennady.uraltsev@gmail.com"
+   url = "mailto://gennady.uraltsev@gmail.com"
 
    [[params.socialIcons]]
    name = "googlescholar"

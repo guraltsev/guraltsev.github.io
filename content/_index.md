@@ -9,7 +9,7 @@ date: 2022-09-06
 <span>
 <h1>Gennady Uraltsev</h1> 
 <h2>Postdoc - Harmonic Analysis</h2>
-<h3>Whyburn Research Associate - University of Virginia<h3>
+<h3>Whyburn Research Associate - <a href="https://math.virginia.edu/"> University of Virginia </a><h3>
 {{< /rawhtml >}} 
 {{< social-shortcode >}}
 </span>
@@ -17,10 +17,3 @@ date: 2022-09-06
 </div></div>
 {{< /rawhtml >}}
 
-
-rst
-srtar
-st
-srt
-rast
-sr
