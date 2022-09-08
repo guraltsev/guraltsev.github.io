@@ -10,7 +10,7 @@ ShowBreadCrumbs: false
 
 ## Spring 2022 (UVA)
 
-- Basic Real Analysis (MATH3310-200)
+- Basic Real Analysis (MATH3310)
 
 ## Fall 2021 (UVA)
 

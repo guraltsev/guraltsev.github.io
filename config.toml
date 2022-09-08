@@ -83,21 +83,32 @@ hideSummary = false
     # name = "Tags"
     # url = "tags"
 
-  # [params.homeInfoParams]
-  # Title = "Gennady"
-  # Content = "Welcome to my blog"
+#  [params.homeInfoParams]
+#  Title = "Gennady Uraltsev"
+#  Content = "Whyburn Research Associate - UVA"
 
-  # [[params.socialIcons]]
-  # name = "twitter"
-  # url = "https://twitter.com/"
+   [[params.socialIcons]]
+   name = "arXiv"
+   url = "https://arxiv.org/a/uraltsev_g_1.html"
+
+   [[params.socialIcons]]
+   name = "github"
+   url = "https://github.com/guraltsev"
+
+   [[params.socialIcons]]
+   name = "email"
+   url = "gennady.uraltsev@gmail.com"
+
+   [[params.socialIcons]]
+   name = "googlescholar"
+   url = "https://scholar.google.com/citations?user=MyoBqN8AAAAJ"
+
+
 
   # [[params.socialIcons]]
   # name = "stackoverflow"
   # url = "https://stackoverflow.com"
 
-  # [[params.socialIcons]]
-  # name = "github"
-  # url = "https://github.com/"
 
 # [params.analytics.google]
 # SiteVerificationTag = "XYZabc"
