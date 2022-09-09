@@ -24,6 +24,8 @@ keywords = [ "math", "mathematics", "analysis", "harmonic analysis", "PDE", "Cal
 author = "Gennady Uraltsev"
 # images = [ "<link or path of image for opengraph, twitter-cards>" ]
 
+math = true
+
 DateFormat = "2006-12-31"
 
 defaultTheme = "light"
