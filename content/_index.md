@@ -21,13 +21,13 @@ date: 2022-09-06
 </div><div class="profile_outer">
 {{< /rawhtml >}} 
 
-I am a Postdoc in mathematics specilizing in Harmonic Analysis.
+I am a Whyburn Postdoctoral research associate in mathematics; I specilize in Harmonic Analysis.
 
 I obtained my Ph.D in Bonn, Germany with [Prof. Dr. Christoph Thiele](https://www.hcm.uni-bonn.de/people/faculty/profile/christoph-thiele/).
 
 I did my undergraduate and master studies in Pisa, Italy with [Prof. Fulvio Ricci](https://www.sns.it/it/persona/fulvio-ricci). 
 
-I specialize in multilinear singular integral operators, especially those with modulation invariance. I am also interested in the results that relate Harmonic analysis techniques with:
+I study multilinear singular integral operators, especially those with modulation invariance. I am also interested in the results that relate Harmonic analysis techniques with:
 - PDEs and Stochastic PDEs,
 - Banach space geometry and functional analysis.
 
