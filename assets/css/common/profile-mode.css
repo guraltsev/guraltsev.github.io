@@ -1,14 +1,14 @@
 .buttons,
-.main .profile {
+.main-home .profile {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-
     max-width: 100%;
-    justify-content: left;
+    justify-content: center;
+    /*    justify-content: space-between;*/
 }
 
-.main .profile {
+.main-home .profile {
     align-items: left;
     min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
     text-align: left;
@@ -25,8 +25,8 @@
 .profile .profile_outer{
     padding: 12px 1em;
     margin: 0px 0;
-    min-width: 20em;
-    max-width: 20em;
+    min-width:  calc(var(--main-width)*0.75 + var(--gap) * 2);
+    max-width:  calc(var(--main-width)*0.75 + var(--gap) * 2);
     text-align: left;
 }
 

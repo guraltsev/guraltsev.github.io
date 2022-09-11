@@ -1,31 +1,37 @@
 ---
-title: "Teaching"
+title: "Teaching and outreach"
 date: 2022-09-06
 ShowBreadCrumbs: false
 ---
 
-## Current (Fall 2022 - UVA)
 
-Calculus 3 - Multivariable calculus (MATH2310)
+## Current 
 
+- **Calculus 3 - Multivariable calculus (MATH2310)**, FA22 [UVA](https://math.virginia.edu/).
+- Geometry lab  **Group: Visualizing Euclidean and non-Euclidean space**, *with: [S. Maloni](https://sites.google.com/view/sara-maloni), [F. Mazzoli](https://filippomazzoli.github.io/), et al.*, FA22 [UVA](https://math.virginia.edu/).
+- [MathClub](https://math.virginia.edu/seminars/mathclub/) **Computer assisted math: intro to LaTeX and**, FA22 (date to be announced) [UVA](https://math.virginia.edu/).
 
 ## Past
-| Semestre    | Course                                                         |
-|-------------|----------------------------------------------------------------|
-| Spring 2022 | Basic Real Analysis (MATH3310) - UVA                           |
-| Fall 2021   | Calculus 3 - Multivariable calculus (MATH2310) -UVA            |
-| Spring 2021 | Basic Real Analysis (MATH3310) - UVA                           |
-| Fall 2020   | Introduction to Real Analysis (MATH4310) - UVA                 |
-| Fall 2020   | Calculus 3 - Multivariable calculus (MATH2310) -UVA            |
-| Spring 2020 | Honors Analysis I (MATH4130) - Cornell                         |
-| Spring 2020 | Lebesgue Integration crash course - Cornell                    |
-| Fall 2019   | Honors Analysis I (MATH4130)    - Cornell                      |
-| Fall 2019   | Partial Differential Equations I (MATH6150) - Cornell          |
-| Spring 2019 | Introduction to PDEs (MATH4280)  - Cornell                     |
-| Spring 2019 | Topics in Analysis: Rough paths and SPDEs (MATH7120) - Cornell |
-| Fall 2018   | Graduate Real Analysis (MATH6110) - Cornell                    |
-| Spring 2018 | Multivariable Calculus (MATH2220) - Cornell                    |
-| Fall 2017   | Calculus 1 (MATH1110)  - Cornell                               |
+- **Basic Real Analysis (MATH3310)**, (SP22) [UVA](https://math.virginia.edu/).
+- [Directed reading program](https://math.virginia.edu/drp/)  **Introduction to Fourier analysis**, *with: N. Zhang*, SP22 [UVA](https://math.virginia.edu/).
+- [Directed reading program](https://math.virginia.edu/drp/) **Introduction fractals and Hausdorff dimension**, *with: I. Tang*, SP22 [UVA](https://math.virginia.edu/).
+- **Calculus 3 - Multivariable calculus (MATH2310)**, FA21 [UVA](https://math.virginia.edu/).
+----
+- **Basic Real Analysis (MATH3310)**, SP12 [UVA](https://math.virginia.edu/).
+- **Introduction to Real Analysis (MATH4310)**, FA20 [UVA](https://math.virginia.edu/).
+- **Calculus 3 - Multivariable calculus (MATH2310)**, FA20 [UVA](https://math.virginia.edu/).
+----
+- **Honors Analysis I (MATH4130)**, SP20 [Cornell](https://math.cornell.edu/).
+- **Lebesgue Integration crash course**, SP20 [Cornell](https://math.cornell.edu/).
+- **Honors Analysis I (MATH4130)**, FA19 [Cornell](https://math.cornell.edu/).
+- **Partial Differential Equations I (MATH6150)**, FA19 [Cornell](https://math.cornell.edu/).
+----
+- **Introduction to PDEs (MATH4280)**, SP19 [Cornell](https://math.cornell.edu/).
+- **Topics in Analysis: Rough paths and SPDEs (MATH7120)**, SP19 [Cornell](https://math.cornell.edu/).
+- **Graduate Real Analysis (MATH6110)**, FA18 [Cornell](https://math.cornell.edu/).
+----
+- **Multivariable Calculus (MATH2220)**, SP18 [Cornell](https://math.cornell.edu/).
+- **Calculus 1 (MATH1110)**, FA17 [Cornell](https://math.cornell.edu/).
 
 
 
