@@ -9,7 +9,7 @@ ShowBreadCrumbs: false
 
 - **Reading seminar - Rough paths and SPDEs**, FA22, (Fridays @ 11:15 - 12:45, Ker 326) [UVA](https://math.virginia.edu/).
 - **Calculus 3 - Multivariable calculus (MATH2310)**, FA22 [UVA](https://math.virginia.edu/).
-- Geometry lab  **Group: Visualizing Euclidean and non-Euclidean space**, *with: [S. Maloni](https://sites.google.com/view/sara-maloni), [F. Mazzoli](https://filippomazzoli.github.io/), et al.*, FA22 [UVA](https://math.virginia.edu/).
+- **Geometry lab** Group: Visualizing Euclidean and non-Euclidean space, *with: [S. Maloni](https://sites.google.com/view/sara-maloni), [F. Mazzoli](https://filippomazzoli.github.io/), et al.*, FA22 [UVA](https://math.virginia.edu/).
 -  **Computer assisted math: intro to LaTeX and CAS**, FA22 (Tue 2022-09-27 @ 05:00pm) [UVA MathClub](https://math.virginia.edu/seminars/mathclub/).
 
 ## Past
