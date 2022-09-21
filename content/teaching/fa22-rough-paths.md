@@ -45,7 +45,7 @@ We plan on developing pathwise stochastic integration in this context but a cert
 
 In the meantime, to get an informal introduction of the relation of rough path theory to applications outside of math please enjoy the following talk:
 
-[What has rough paths got to do with data science - Terry Lyons - YouTube][https://www.youtube.com/watch?v=nEflrmcIwh0]
+[What has rough paths got to do with data science - Terry Lyons - YouTube](https://www.youtube.com/watch?v=nEflrmcIwh0)
 
 Other interesting material (that will probably not be covered in the seminar) is:
 
