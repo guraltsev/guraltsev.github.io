@@ -41,7 +41,7 @@ tocopen = true
 UseHugoToc = false
 
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 
 
