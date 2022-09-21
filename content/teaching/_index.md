@@ -7,13 +7,13 @@ ShowBreadCrumbs: false
 
 ## Current 
 
-- **Reading seminar - Rough paths and SPDEs**, FA22, (Fridays @ 11:15 - 12:45, Ker 326) [UVA](https://math.virginia.edu/).
+- **Reading seminar - Rough paths and SPDEs**, (Fridays @ 11:15 - 12:45, Ker 326), FA22 [UVA](https://math.virginia.edu/).
 - **Calculus 3 - Multivariable calculus (MATH2310)**, FA22 [UVA](https://math.virginia.edu/).
 - **Geometry lab** Group: Visualizing Euclidean and non-Euclidean space, *with: [S. Maloni](https://sites.google.com/view/sara-maloni), [F. Mazzoli](https://filippomazzoli.github.io/), et al.*, FA22 [UVA](https://math.virginia.edu/).
--  **Computer assisted math: intro to LaTeX and CAS**, FA22 (Tue 2022-09-27 @ 05:00pm) [UVA MathClub](https://math.virginia.edu/seminars/mathclub/).
+-  **Computer assisted math: intro to LaTeX and CAS**, Tue 2022-09-27 @ 05:00pm, FA22 [UVA MathClub](https://math.virginia.edu/seminars/mathclub/) .
 
 ## Past
-- **Basic Real Analysis (MATH3310)**, (SP22) [UVA](https://math.virginia.edu/).
+- **Basic Real Analysis (MATH3310)**, SP22 [UVA](https://math.virginia.edu/).
 - [Directed reading program](https://math.virginia.edu/drp/)  **Introduction to Fourier analysis**, *with: N. Zhang*, SP22 [UVA](https://math.virginia.edu/).
 - [Directed reading program](https://math.virginia.edu/drp/) **Introduction fractals and Hausdorff dimension**, *with: I. Tang*, SP22 [UVA](https://math.virginia.edu/).
 - **Calculus 3 - Multivariable calculus (MATH2310)**, FA21 [UVA](https://math.virginia.edu/).
