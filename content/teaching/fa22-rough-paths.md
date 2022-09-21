@@ -47,9 +47,9 @@ In the meantime, to get an informal introduction of the relation of rough path t
 
 [What has rough paths got to do with data science - Terry Lyons - YouTube](https://www.youtube.com/watch?v=nEflrmcIwh0)
 
-Other interesting material (that will probably not be covered in the seminar) is:
+Other interesting material (that will probably not be covered in the seminar):
 
-[Rough Path Theory and Signatures Applied To Quantitative Finance - Part 1 | QuantStart](https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1/)
+- [Rough Path Theory and Signatures Applied To Quantitative Finance - Part 1 | QuantStart](https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1/)
 
 We are open to suggestions on closely related topics. 
 
