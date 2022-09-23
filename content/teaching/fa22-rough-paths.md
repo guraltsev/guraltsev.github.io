@@ -2,6 +2,7 @@
 title: "Rough paths and regularity structures applied to probabilistic PDEs"
 date: 2022-09-20
 ShowBreadCrumbs: true
+hiddenInHomeList: true
 ---
 ## Meeting times
 
