@@ -20,7 +20,7 @@ Outer Lebesgue spaces provide a consistent functional analytic framework for dea
 
 Duality in Outer Lebesgue theory has been studied abstractly by Marco Fraccaroli [🔗](https://arxiv.org/abs/2104.09472) [🔗](https://arxiv.org/abs/2001.05903). Interesting endpoint results have been obtained by Di Plinio and Fragos in ["The weak-type Carleson theorem via wave packet estimates"](https://arxiv.org/abs/2204.08051).
 
-I am currently interested in Outer Lebesgue spaces in the context of higher order (polynomial frequency) phenomenon.
+I am currently interested in Outer Lebesgue spaces in the context of higher order (polynomial frequency) phenomena.
 
 
 # Banach space-valued harmonic analysis
@@ -52,7 +52,7 @@ Uniform bounds unify the study of Calderón-Zygmund and time-scale-frequency ope
 
 # Stochastic dispersive PDEs
  
-Nonlinear Schrödinger equations arise when studying light propagation in nonlinear medium, Bose-Einstein condensates, etc. Because of its "dispersive" nature different frequencies (colors) of solutions travel at different speeds. This motivates using Fourier analysis to understand this equation. 
+Nonlinear Schrödinger equations arise when studying light propagation in nonlinear mediums, Bose-Einstein condensates, etc. Because of its "dispersive" nature different frequencies (colors) of solutions travel at different speeds. This motivates using Fourier analysis to understand this equation. 
 
 Existence and properties of solutions for short times have been [well understood](https://www.math.ucla.edu/~tao/Dispersive/). In particular, solutions may fail to exist if the intial data is has "energy supercritical" regularity. 
 
