@@ -6,7 +6,7 @@ ShowToc: true
 TocOpen: true
 ---
 
-My research interests lie in the area of real harmonic analysis and Singular Integral Operators (SIOs). I specialize in techniques from time-scale-frequency analysis and have works on intrinsic questions in that field, applications to [functional analysis](#outer-lebesgue-spaces) and [Banach space geometry](#banach-space-valued-harmonic-analysis), and applications to [probabilistic dispersive PDEs(#stochastic-dispersive-pdes).
+My research interests lie in the area of real harmonic analysis and Singular Integral Operators (SIOs). I specialize in techniques from time-scale-frequency analysis and have works on intrinsic questions in that field, applications to [functional analysis](#outer-lebesgue-spaces) and [Banach space geometry](#banach-space-valued-harmonic-analysis), and applications to [probabilistic dispersive PDEs](#stochastic-dispersive-pdes).
 
 
 # Outer Lebesgue spaces
