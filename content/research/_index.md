@@ -56,4 +56,4 @@ Nonlinear Schrödinger equations arise when studying light propagation in nonlin
 
 Existence and properties of solutions for short times have been [well understood](https://www.math.ucla.edu/~tao/Dispersive/). In particular, solutions may fail to exist if the intial data is has "energy supercritical" regularity. 
 
-In these circumstances one studies probabilistic well posedness: how probable is it that a solution exists even in this "energy supercritical" regime. With J. Földes and J.B. Casteras we [recover and generalize](https://arxiv.org/abs/2203.03500) current results and significantly [improve](/publications) results for when solutions exist almost surely. 
+In these circumstances one studies probabilistic well posedness: how probable is it that a solution exists even in this "energy supercritical" regime. With J. Földes and J.B. Casteras we [recover and generalize](https://arxiv.org/abs/2203.03500) current results for the Schrödinger equation and significantly [improve](/publications) results for more general differential operators. 
