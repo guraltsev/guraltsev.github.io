@@ -7,7 +7,7 @@ ShowBreadCrumbs: false
 - **Carleson embeddings with quadratic modulation invariance: the Walsh case**,
 {{< nobreak >}}with: T. Chan.{{< /nobreak >}}
 {{< nobreak >}}In: *preparation*{{< /nobreak >}}
-- **Second order expansion for the probabilistic local well-posedness theory for a cubic nonlinear Schrödinger equation**,
+- **Higher order expansion for the probabilistic local well-posedness theory for a cubic nonlinear Schrödinger equation**,
 {{< nobreak >}}with: J-B. Casteras, J. Földes{{< /nobreak >}}
 {{< nobreak >}}In: *preparation*{{< /nobreak >}}
 ----
