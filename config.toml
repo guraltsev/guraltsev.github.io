@@ -90,6 +90,10 @@ hideSummary = false
 #  Content = "Whyburn Research Associate - UVA"
 
    [[params.socialIcons]]
+   name = "cv"
+   url = "./guraltsev-cv.pdf"
+
+[[params.socialIcons]]
    name = "arXiv"
    url = "https://arxiv.org/a/uraltsev_g_1.html"
 
@@ -104,7 +108,6 @@ hideSummary = false
    [[params.socialIcons]]
    name = "googlescholar"
    url = "https://scholar.google.com/citations?user=MyoBqN8AAAAJ"
-
 
 
   # [[params.socialIcons]]
