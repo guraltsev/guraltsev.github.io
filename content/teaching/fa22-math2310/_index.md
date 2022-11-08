@@ -14,14 +14,15 @@ Please check the [daily syllabus](#daily-syllabus) or [Collab - syllabus](https:
 
 Use [Piazza](https://collab.its.virginia.edu/portal/site/919a961a-6bab-40d8-9d89-a51d89d52296/page/fac16fa6-ade4-4f3e-b05f-bc25afe7f99a) for questions related to course contents.
 
-# Course structure 
+# Course structure
 
 Attendance to lectures is *NOT* mandatory but *STRONGLY ENCOURAGED*. All lectures will be recorded for your convenience. You may also participate in the lecture by logging in through Zoom (see [Online Meetings](https://collab.its.virginia.edu/portal/site/919a961a-6bab-40d8-9d89-a51d89d52296/page/39146097-067f-4322-bd09-02968dcdbd2a))
 
 Attendance to the recitations is *NOT* mandatory but *STRONGLY ENCOURAGED*. Topics covered in recitation are part of the material of the course and may appear in assessments.
 
 Not all the sections and material of the book is going to be covered during lectures. Indications will be given in the [Daily Syllabus](#daily-syllabus) about:
-- material that students are expected to read independently, 
+
+- material that students are expected to read independently,
 - material that can be skipped and is not going to be part of the course.
 
 **Prerequisites:** Math 1320 or equivalent.
@@ -30,16 +31,17 @@ Not all the sections and material of the book is going to be covered during lect
 
 Access to the electronic version of the book is provided with access to the course homework. No need to buy a physical copy!
 
-Access to online HW is through [Cengage - Webassign](https://www.webassign.net/). The course access code is on [Collab](https://collab.its.virginia.edu/portal/site/919a961a-6bab-40d8-9d89-a51d89d52296/page/764594af-0f1b-48cf-bea7-d1d7e7f8602e)
+Access to online HW is through [Cengage - WebAssign](https://www.webassign.net/). The course access code is on [Collab](https://collab.its.virginia.edu/portal/site/919a961a-6bab-40d8-9d89-a51d89d52296/page/764594af-0f1b-48cf-bea7-d1d7e7f8602e)
 
-Course access content has an associated cost. Cengage offers a trial period until 09/06/2022. If you are not sure whether you will continue with the course or will consider dropping it, please make use of the trial. 
+Course access content has an associated cost. Cengage offers a trial period until 09/06/2022. If you are not sure whether you will continue with the course or will consider dropping it, please make use of the trial.
 
 # Overview
 
 The course is an introduction to calculus of functions of several variables. We study:
-- the geometry and algebra of two and three dimensional space, including dot and cross products of vectors.
-- paths and motion in space: vector-valued functions of a single variable
-- Multivariable differential calculus: partial derivatives, directional derivatives, the chain rule in several variables. 
+
+- the geometry and algebra of two and three-dimensional space, including dot and cross products of vectors.
+- Paths and motion in space: vector-valued functions of a single variable
+- Multivariable differential calculus: partial derivatives, directional derivatives, the chain rule in several variables.
 - Optimization of functions of several variables: critical points, extrema, second derivative test, boundary behavior, method of Lagrange multipliers.
 - Integration over 2D and 3D domains: Fubini's theorem, change of variables formula, integration in polar, cylindrical, and spherical coordinates
 - Parameterized surfaces and integration over surfaces
@@ -50,14 +52,14 @@ The course is an introduction to calculus of functions of several variables. We 
 
 # Useful dates
 
--   First day of class: *August 23*
--   Add deadline: *September 6*
--   Drop without W deadline: *September 7*
--   Drop with W deadline: *October 18*
--   Last day of class: *December 06, 2022*
--   Midterm 01: *Thu 06 Oct, 2022, Clark 107, 18:30* (please arrive 15 min early)
--   Midterm 02: *Thu 17 Nov, 2022, Chemical engineering bldg room 005, 18:30* (please arrive 15 min early)
--   Final exam: *TBA*
+- First day of class: *August 23*
+- Add deadline: *September 6*
+- Drop without W deadline: *September 7*
+- Drop with W deadline: *October 18*
+- Last day of class: *December 06, 2022*
+- Midterm 01: *Thu 06 Oct, 2022, Clark 107, 18:30* (please arrive 15 min early)
+- Midterm 02: *Thu 17 Nov, 2022, Chemical engineering bldg room 005, 18:30* (please arrive 15 min early)
+- Final exam: *TBA*
 
 # Daily syllabus
 
@@ -78,6 +80,6 @@ The course is an introduction to calculus of functions of several variables. We 
 - [Lec20](Syllabus-Lec20.pdf)
 - [Lec21](Syllabus-Lec21.pdf)
 
-
 ## Exam / midterm topics & review
+
 - [Midterm 01 Info](Midterm01-info.pdf)
