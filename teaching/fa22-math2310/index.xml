@@ -1,102 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Gennady Uraltsev</title>
-    <link>https://guraltsev.github.io/</link>
-    <description>Recent content on Gennady Uraltsev</description>
+    <title>Calculus 3 (MATH2310) - Multivariable Calculus  on Gennady Uraltsev</title>
+    <link>https://guraltsev.github.io/teaching/fa22-math2310/</link>
+    <description>Recent content in Calculus 3 (MATH2310) - Multivariable Calculus  on Gennady Uraltsev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://guraltsev.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rough paths and regularity structures applied to probabilistic PDEs</title>
-      <link>https://guraltsev.github.io/teaching/fa22-rough-paths/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://guraltsev.github.io/teaching/fa22-rough-paths/</guid>
-      <description>Meeting times When: Friday 11:15 - 12:45ish
-Where: Kerchof 326
-If interested contact Gennady Uraltsev and Juraj Földes.
-We can consider remote participation via Zoom should interest arise. Feel free to circulate.
-Collab site
-Summary Martin Hairer received the Fields medal at the ICM in Seoul 2014 for “his outstanding contributions to the theory of stochastic partial differential equations&amp;quot; (quoted from the ICM webpage), in particular for the creation of the theory of regularity structures1.</description>
-      <content:encoded><![CDATA[<h2 id="meeting-times">Meeting times</h2>
-<p>When: Friday 11:15 - 12:45ish</p>
-<p>Where: Kerchof 326</p>
-<p>If interested contact <a href="mailto:gu8gs@virginia.edu">Gennady Uraltsev</a> and <a href="mailto:jf8dc@virginia.edu">Juraj Földes</a>.</p>
-<p>We can consider remote participation via Zoom should interest arise.
-Feel free to circulate.</p>
-<p><a href="https://collab.its.virginia.edu/portal/site/a5e4a36f-6f7c-490e-8c0b-e314344fa33e">Collab site</a></p>
-<h2 id="summary">Summary</h2>
-<p>Martin Hairer received the Fields medal at the ICM in Seoul 2014 for “his outstanding contributions to the theory of stochastic partial differential equations&quot; (quoted from the ICM webpage), in particular for the creation of the theory of regularity structures<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. The theory of regularity structures formally subsumes Terry Lyons&rsquo; theory of rough paths<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> and is particularly adapted to solving stochastic parabolic equations<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>. A more analytic generalization of rough paths has been developed by Gubinelli et. al. in the form of paracontrolled calculus<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> and has proven applicable to stochastic PDE with dispersive behavior<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
-<p>The goal of this reading seminar is to gain an understanding of the relation of the results panorama of singular stochastic PDEs with particular attention to the results above. We will mainly concentrate on the classic Terry Lyons&rsquo; theory and its subsequent development in terms of paracontrolled calculus. In particular, we will follow lecture notes by Gubinelli<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup> and the intro book<sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup> by Hairer and Friz. This starts mainly with ODE theory. We will then try to progress to SPDEs (parabolic) by following<sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup>. Finally, it might be interesting to present how these ideas are applied to dispersive PDE<sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup> <sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup> and also to compare paracontrolled theory with Hairer&rsquo;s regularity structures<sup id="fnref1:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup> <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
-<p>Gennady has previously partially followed a course and taught on closely related topics so he would gladly provide lectures in the beginning. Initiative to present topics further down the road is appreciated but not required.</p>
-<h3 id="prerequisites">Prerequisites</h3>
-<ul>
-<li>A solid background in Lebesgue integration theory and classical analysis.</li>
-<li>Exposure to probability and stochastic analysis is suggested.</li>
-</ul>
-<p>We plan on developing pathwise stochastic integration in this context but a certain general familiarity with the Brownian motion and Ito&rsquo;s formula is suggested.</p>
-<ul>
-<li>
-<p>Basics of Fourier analysis is required:</p>
-<ul>
-<li>$L^2$ theory</li>
-<li>theory of distributions</li>
-<li>generalized functions and Sobolev spaces (will be reviewed quickly)</li>
-</ul>
-</li>
-<li>
-<p>Exposure to basic PDEs (heat, wave) is encouraged (especially starting from the second part of the seminar).</p>
-</li>
-</ul>
-<h3 id="additional-material">Additional material</h3>
-<p>In the meantime, to get an informal introduction of the relation of rough path theory to applications outside of math please enjoy the following talk:</p>
-<p><a href="https://www.youtube.com/watch?v=nEflrmcIwh0">What has rough paths got to do with data science - Terry Lyons - YouTube</a></p>
-<p>Other interesting material (that will probably not be covered in the seminar):</p>
-<ul>
-<li><a href="https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1/">Rough Path Theory and Signatures Applied To Quantitative Finance - Part 1 | QuantStart</a></li>
-</ul>
-<p>We are open to suggestions on closely related topics.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Hairer, Martin. &ldquo;A theory of regularity structures.&rdquo; Inventiones mathematicae 198.2 (2014): 269-504.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:2">
-<p><a href="https://en.wikipedia.org/wiki/Rough_path">Rough path - Wikipedia</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:3">
-<p>Lyons, T., &amp; Qian, Z. (2002). &ldquo;System control and rough paths&rdquo;. Oxford : New York: Clarendon Press ; Oxford University Press.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:4">
-<p><a href="https://en.wikipedia.org/wiki/Kardar%E2%80%93Parisi%E2%80%93Zhang_equation">Kardar–Parisi–Zhang equation - Wikipedia</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:5">
-<p>Gubinelli, Massimiliano, Peter Imkeller, and Nicolas Perkowski. &ldquo;Paracontrolled distributions and singular PDEs.&rdquo; Forum of Mathematics, Pi. Vol. 3. Cambridge University Press, 2015.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:6">
-<p>Gubinelli, M., et al. &ldquo;Global dynamics for the two-dimensional stochastic nonlinear wave equations, to appear in Internat.&rdquo; Math. Res. Not.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:7">
-<p>Unpublished lecture notes&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:8">
-<p><a href="https://www.hairer.org/notes/RoughPaths.pdf">RoughPaths.pdf (hairer.org)</a>&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:9">
-<p>Gubinelli, Massimiliano, and Nicolas Perkowski. &ldquo;Lectures on singular stochastic PDEs.&rdquo; arXiv preprint arXiv:1502.00157 (2015).&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:10">
-<p>Gubinelli, Massimiliano, Herbert Koch, and Tadahiro Oh. &ldquo;Paracontrolled approach to the three-dimensional stochastic nonlinear wave equation with quadratic nonlinearity.&rdquo; <a href="https://doi.org/10.48550/arXiv.1811.07808">arXiv preprint arXiv:1811.07808 (2018)</a>.&#160;<a href="#fnref:10" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:11">
-<p>Gubinelli, Massimiliano, B. Ugurcan, and Immanuel Zachhuber. &ldquo;Semilinear evolution equations for the Anderson Hamiltonian in two and three dimensions.&rdquo; Stochastics and Partial Differential Equations: Analysis and Computations 8.1 (2020): 82-149.&#160;<a href="#fnref:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>
-]]></content:encoded>
-    </item>
-    
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://guraltsev.github.io/teaching/fa22-math2310/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calculus 3 (MATH2310) - Assessment </title>
       <link>https://guraltsev.github.io/teaching/fa22-math2310/assessment/</link>
