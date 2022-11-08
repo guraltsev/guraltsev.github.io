@@ -43,7 +43,7 @@ The course is an introduction to calculus of functions of several variables. We 
 - Optimization of functions of several variables: critical points, extrema, second derivative test, boundary behavior, method of Lagrange multipliers.
 - Integration over 2D and 3D domains: Fubini's theorem, change of variables formula, integration in polar, cylindrical, and spherical coordinates
 - Parameterized surfaces and integration over surfaces
-- Vector fields: path integrals and flows, conservative vector fields and potentions
+- Vector fields: path integrals and flows, conservative vector fields and potentials
 - The fundamental theorem of calculus in higher dimensions: in various incarnations (Green's, Stokes', and the divergence theorems).
 
 [more details...](summary)
@@ -55,8 +55,8 @@ The course is an introduction to calculus of functions of several variables. We 
 -   Drop without W deadline: *September 7*
 -   Drop with W deadline: *October 18*
 -   Last day of class: *December 06, 2022*
--   Midterm 01: *Thu 06 Oct, 2022, Clark 107, 18:30 (please arrive 15 min early)*
--   Midterm 02: Thu* 17 Nov, 2022, Location CHEMICAL ENGINEERING BLDG ROOM 005, 18:30 (please arrive 15 min early)*
+-   Midterm 01: *Thu 06 Oct, 2022, Clark 107, 18:30* (please arrive 15 min early)
+-   Midterm 02: *Thu 17 Nov, 2022, Chemical engineering bldg room 005, 18:30* (please arrive 15 min early)
 -   Final exam: *TBA*
 
 # Daily syllabus
