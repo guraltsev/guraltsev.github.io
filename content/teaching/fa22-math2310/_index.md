@@ -83,3 +83,4 @@ The course is an introduction to calculus of functions of several variables. We 
 ## Exam / midterm topics & review
 
 - [Midterm 01 Info](Midterm01-info.pdf)
+- [Midterm 02 Info](Midterm02 info.pdf)
